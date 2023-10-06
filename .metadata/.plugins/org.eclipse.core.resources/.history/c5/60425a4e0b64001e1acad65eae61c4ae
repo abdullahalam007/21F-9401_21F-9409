@@ -17,7 +17,7 @@ public class calmodel {
 		return a / b;
 	}
 	public double Divideupdated(double a, double b) {
-		return a / (b*2);
+		return a / b;
 	}
 
 	public double Power(double a, double b) {
